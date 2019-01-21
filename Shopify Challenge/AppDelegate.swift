@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Shopify Challenge
 //
-//  Created by Xianglin Liu on 2019-01-19.
+//  Created by Julia Pu on 2019-01-19.
 //  Copyright © 2019 Julia Pu. All rights reserved.
 //
 
